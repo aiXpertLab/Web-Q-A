@@ -1,0 +1,4 @@
+learn_python_with_jupyter.pdf
+Managing Your Biological Data with Python.pdf
+Mastering Machine Learning With scikit-learn.pdf
+Mastering_Python_50_Specific_Tips_for_Writing_Better.pdf
